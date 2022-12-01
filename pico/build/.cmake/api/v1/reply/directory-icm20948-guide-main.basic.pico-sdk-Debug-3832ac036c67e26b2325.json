@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "icm20948-guide-main/basic/pico-sdk",
+		"source" : "/Users/andychen/pico/pico-sdk"
+	}
+}

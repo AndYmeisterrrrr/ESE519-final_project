@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-tflmicro-main/include/pico-microphone/pico-sdk",
+		"source" : "/Users/andychen/pico/pico-sdk"
+	}
+}

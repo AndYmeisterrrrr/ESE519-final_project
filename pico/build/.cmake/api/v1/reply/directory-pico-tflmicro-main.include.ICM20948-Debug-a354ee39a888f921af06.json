@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-tflmicro-main/include/ICM20948",
+		"source" : "pico-tflmicro-main/include/ICM20948"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-tflmicro-main/include/pico-microphone",
+		"source" : "pico-tflmicro-main/include/pico-microphone"
+	}
+}

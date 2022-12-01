@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-tflmicro-main/examples/magic_wand_ble",
+		"source" : "pico-tflmicro-main/examples/magic_wand_ble"
+	}
+}
